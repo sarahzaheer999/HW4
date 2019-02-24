@@ -1,6 +1,6 @@
 # HW4
 
-# Assignment: Answer the following questions in your homework repository's README.md file:
+# Practice with Loops Assignment: Answer the following questions in your homework repository's README.md file:
 
 How many lines are drawn each frame? In other words, how often does the for loop run?
 Till the time x < width-10,the loop keeps running
@@ -16,7 +16,7 @@ x = x + 10
 The amount that changes each time by 10
 
 
-# Assignment: Answer the following questions in your homework repository's README.md file:
+# Practice with Arrays Assignment: Answer the following questions in your homework repository's README.md file:
 
 How many times does the loop body run each frame, once the x and y arrays are full?
 The loop body runs 6 times each frame once the x and y arrays are full
